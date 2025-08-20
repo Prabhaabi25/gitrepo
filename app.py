@@ -1,1 +1,1 @@
-print("Hello from Dockerized Python world today!")
+print("Hello from Dockerized Python world today only!")
